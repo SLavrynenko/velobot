@@ -16,9 +16,3 @@ Urban cyclists who want to know:
 ## Connect
 [@velobot on Telegram](#)
 ```
-
-Сохрани (Commit changes).
-
-**4.** URL страницы будет:
-```
-https://github.com/SLavrynenko/velobot
